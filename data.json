@@ -24,14 +24,6 @@
     "image": "assets/images/foundationone-heme.png"
   },
   {
-    "title": "MammaPrint",
-    "description": "Prueba genómica (FDA aprobada) para cáncer de mama en estadio temprano.\nEvalúa 70 genes para predecir riesgo de recurrencia a 10 años mediante NGS.\nClasifica en riesgo bajo o alto, incluyendo subcategorías: Ultralow, Low, High-1, High-2\nIndicada en: pacientes con tumor ≤5 cm y 0–3 ganglios positivos.\nMuestra: Tejido tumoral (biopsia o cirugía).\nUso clínico: Ayuda a personalizar el tratamiento.",
-    "price_nomad": "$127,153.40 MXN",
-    "price_val": 127153.4,
-    "link": "https://healthincode.com/mammaprint- blueprint/",
-    "image": "assets/images/mammaprint.png"
-  },
-  {
     "title": "Guardant360 CDx",
     "description": "Perfil Genómico Oncológico de biopsia líquida (FDA aprobada) para tumores sólidos avanzados (pulmón no microcítico, mama, colon, entre otros).\nAnaliza 74 genes + MSI-High status  mediante NGS .\nMuestra: Sangre periférica 2 tubos de 10 ml de sangre recolectados en tubos Streck.\nUso clínico: Permite identificar alteraciones accionables para terapias dirigidas y mecanismos de resistencia.",
     "price_nomad": "$93,113.20 MXN",
