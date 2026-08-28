@@ -32,14 +32,6 @@
     "image": "assets/images/guardant360-cdx.png"
   },
   {
-    "title": "Guardant360 CDx Expanded",
-    "description": "Perfil Genómico Oncológico de biopsia líquida (FDA aprobada) para tumores sólidos avanzados (pulmón no microcítico, mama, colon, entre otros).\nAnaliza 74 genes + MSI-High status + TMB + HRR genes mediante NGS.\nMuestra: Sangre periférica 2 tubos de 10 ml de sangre recolectados en tubos Streck.\nUso clínico: Permite identificar alteraciones accionables para terapias dirigidas y mecanismos de resistencia.",
-    "price_nomad": "$106,720.00 MXN",
-    "price_val": 106720.0,
-    "link": "https://www.guardantcomplete.com/",
-    "image": "assets/images/2.png"
-  },
-  {
     "title": "Guardant Health Reveal",
     "description": "Biopsia líquida para detección de enfermedad residual mínima (MRD) y monitoreo postquirúrgico.\nUtiliza ctDNA para analizar más de  2,000 regiones diferencialmente metiladas (marcas epigenéticas) mediante NGS.\nCánceres: Colon, mama, pulmón (estadios II–III).\nMuestra: Sangre periférica 4 tubos de 10 ml de sangre recolectados en tubos Streck.\nUso clínico: Detecta riesgo de recaída y permite ajustar el tratamiento.",
     "price_nomad": "$97,382.00 MXN",
